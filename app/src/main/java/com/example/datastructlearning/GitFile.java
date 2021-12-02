@@ -7,4 +7,8 @@ package com.example.datastructlearning;
  * Description: show me the code change the world
  */
 public class GitFile {
+
+    void test(){
+
+    }
 }
