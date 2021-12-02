@@ -7,4 +7,7 @@ package com.example.datastructlearning
  * Description: show me the code change the world
  */
 class TestDemo {
+    private fun test(){
+
+    }
 }
