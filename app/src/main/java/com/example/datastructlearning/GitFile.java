@@ -12,4 +12,8 @@ public class GitFile {
 
     }
 
+    void another(){
+
+    }
+
 }
