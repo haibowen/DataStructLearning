@@ -10,4 +10,7 @@ public class LinkListDemo {
     public void test() {
         System.out.println("这是一个测试的方法");
     }
+    void doSomething(){
+
+    }
 }
