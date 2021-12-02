@@ -1,5 +1,7 @@
 package com.example.datastructlearning
 
+import java.sql.DriverManager.println
+
 /**
  * Created on 2021/12/2
  * Author: hyplo
@@ -8,6 +10,6 @@ package com.example.datastructlearning
  */
 class TestDemo {
     private fun test(){
-
+        println("输出了haul")
     }
 }
